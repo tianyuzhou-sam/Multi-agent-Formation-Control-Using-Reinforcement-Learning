@@ -1,0 +1,3 @@
+[submodule "Mambo-Tracking-Interface"]
+	path = Mambo-Tracking-Interface
+	url = https://github.com/tianyuzhou-sam/Mambo-Tracking-Interface.git
